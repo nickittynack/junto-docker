@@ -1,4 +1,4 @@
-This repository is a simple wrapper around Junto.
+This repository is a simple wrapper around [Junto](https://github.com/parthatalukdar/junto).
 
 Building the Image
 ===============================
